@@ -95,7 +95,7 @@ A simple Flask web application (`app.py`) is included to demonstrate how the tra
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/vanimakhija/ntcp.git
+    git clone https://github.com/nainashrm/ntcp.git
     ```
 2.  **Create a virtual environment:**
     ```bash
